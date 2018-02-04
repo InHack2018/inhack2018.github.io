@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+    {% include head.html %}
+  </head>
+
+  {% assign page_class = page.path | remove: ".html" | remove: "/" | replace: "index", "home" %}
+
+  <body {% if page_class %}class="{{page_class}}-page "{% endif %}>
+    <div class="page-title">
+      <h1 class="title"><a href="/">InHack</a></h1>
+      <h2 class="subtitle">2018 Inholland Hackathon</h2>
+    </div>
+
+    {{ content }}
+
+    {% include scripts.html %}
+
+  </body>
+
+</html>

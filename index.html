@@ -1,0 +1,14 @@
+---
+layout: page
+title: InHack 2018
+---
+
+{% include call-to-action.html %}
+
+{% assign section_containers = site.posts | reverse %}
+{% for section_container in section_containers %}
+  {% assign container_id = section_container.title | slugify %}
+  <div class="container {{ section_container.classes }}" id="{{ container_id }}">
+    {{ section_container.content }}
+  </div>
+{% endfor %}
