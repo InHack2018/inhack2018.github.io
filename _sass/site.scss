@@ -3,8 +3,7 @@
   to { opacity: 1; }
 }
 
-$font1: "Arial Regular", Arial, sans-serif;
-$font2: $font1; // "Arial Narrow", sans-serif;
+$font: "Arial Regular", Arial, sans-serif;
 
 $mainbackground: #fff;
 $contrastbackground: #333;
@@ -34,14 +33,14 @@ body {
   display: flex;
   flex-direction: column;
   color: $maintext;
-  font-family: $font1;
+  font-family: $font;
   background: $mainbackground;// url('../img/header.jpg') center top no-repeat;
   padding-bottom: 120px;
   margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $font2;
+  font-family: $font;
   text-align: center;
   text-shadow: $maintext_shadow;
 }
@@ -324,7 +323,6 @@ a.action-button {
     }
   }
   .page-title {
-    height: 432px;
     margin: 0;
 
     .subtitle {
