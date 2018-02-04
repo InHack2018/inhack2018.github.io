@@ -3,48 +3,77 @@ classes: large
 title: Detailed Info
 ---
 
+### F.A.Q
+
 <section markdown="1">
 
-### Raiding with Profanus
+#### What is a hackathon?
 
-Profanus is a raiding guild on Ragnaros EU. Our purpose is to have good progression, while only raiding twice a week. To make this happen, we have some guidelines and rules that apply to our raiders.
+A hackathon is a hacking marathon where creative and ambitious teams get
+together to create software projects in a short amount of time.
 
-As a raiding guild, our primary goal is to kill as many bosses as possible per raid. We have outlined how we achieve this below. We expect every Profanus raider to know and to follow these rules.
+#### Does InHack have a theme?
 
-#### Raid times
+Our Hackathon doesn't have a theme to encourage more people to join and
+freedom of creativity.
 
-We raid Wednesday and Monday from `20:00` server time until `23:00` server time.
+#### What can I make?
 
-During this time, we expect people to be online and available. We have a break in the middle of the raid where raiders can take care of whatever business.
+As long as it's tech related – you can make anything you want.
 
-#### Time inside raids
+#### Who can participate
 
-To make the most of our raids, we don't want to waste time in them. This means we expect raiders to be on time, to have prepared, and to be in the right mindset.
+Any InHolland Hogeschool student can participate.
 
-#### Preparation
+#### How big should my team be?
 
-Raiders should have enough food, flasks, and potions on you to make it through the raid. We expect them to be at the raid entrance 15 minutes before the raid. We also expect them to have read up on the boss tactics and to know how to play their class and spec.
+Your team should consist of 3 to 5 people.
 
-#### Fun and progress
+#### What does it cost to participate?
 
-Raids are fun, but they must also be serious. Jokes are only funny if they don't waste other people's time or effort. We like jokes, but during bosses we expect our raiders to pay attention to the fight, the raid leader and their role.
+The cost of InHack is 7 euros. We will provide the WiFi, workspace, snacks, drinks and other goodies.
+
+#### I'm not smart / my idea is not cool enough.
+
+Sure you are. Hackathons are for learning, creating, getting inspired and
+have fun while doing it!
+
+
 
 </section>
 
-<section class="early-lg" markdown="1">
+<section markdown="1">
 
-![Illidan](img/standout.jpg "We are totally prepared...")
+#### How many people per team?
 
-#### Attendance
+2 – 5 people per team.
 
-We aim at having a raid team with at least 80% attendance. Since we only raid twice a week, it should be possible for everyone to meet this schedule.
+#### How do I join?
 
-If people cannot make a raid day, we expect them to let the officers know well in advance and to decline the raid invite. We understand that life gets in the way sometimes, but planning is a virtue. As long as raiders are predictable, we will try to work with them.
+Easy, sign up here [link]. Don't forget though, max. 5 people per team.
 
-#### Loot
+#### What do I need to bring?
 
-We have a loot council consisting of the officers and raid leader to distribute loot. They will attempt to distribute loot to increase the performance of the raid as a whole. This means raiders might not always get the loot they want when they want it.
+Bring yourself, your laptop and anything else that you need to be productive.
+We will supply internet and a place to plug in. There will also be some
+food and drinks but don't be afraid to bring your own snacks.
 
-When asked, the officers will provide a reason for the way they distribute loot. The goal is to be fair and sensible. At the end of the day, everyone will get gear in due time. There have generally never been issues about loot distribution in the raids.
+Don't forget your student card for admission.
+
+#### 10 hours is not long enough. What can I do ahead of time?
+
+You can plan and design what you want to make but keep the actual programming
+for the day of the hackathon.
+
+#### How will projects be judged?
+
+Projects will be judged on technical complexity, originality, practicality,
+completion and your presentation pitch. Don't be afraid, the judges know
+which study year you're in, so they will know what your expected level of
+knowledge is.
+
+#### I still have more questions.
+
+E-mail us at inhack2018@gmail.com
 
 </section>
