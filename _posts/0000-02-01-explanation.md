@@ -7,6 +7,8 @@ title: Explanation 1
 
 ### Teams
 
-Two paragraph explanation of teams.
+Teams are put together by participants themselves, so you have a chance to code with your friends! Team size should be 2 to 5 people. Teams will be registered at the beginning of the event.
+
+All the team members are required to have a ticket. You can buy the ticket here [link]. Tickets are required to help cover the costs of food and organization.
 
 </section>
