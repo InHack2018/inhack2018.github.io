@@ -14,8 +14,7 @@ together to create software projects in a short amount of time.
 
 #### Does InHack have a theme?
 
-Our Hackathon doesn't have a theme to encourage more people to join and
-freedom of creativity.
+InHack does not have a theme. You can let your imagination run wild!
 
 #### What can I make?
 
@@ -27,7 +26,7 @@ Any InHolland Hogeschool student can participate.
 
 #### How big should my team be?
 
-Your team should consist of 3 to 5 people.
+Your team should consist of 2 to 5 people. If you are determined to hack solo, please send us an e-mail.
 
 #### What does it cost to participate?
 
@@ -43,10 +42,6 @@ have fun while doing it!
 </section>
 
 <section markdown="1">
-
-#### How many people per team?
-
-2 – 5 people per team.
 
 #### How do I join?
 
@@ -71,6 +66,14 @@ Projects will be judged on technical complexity, originality, practicality,
 completion and your presentation pitch. Don't be afraid, the judges know
 which study year you're in, so they will know what your expected level of
 knowledge is.
+
+#### What about the rights to my work?
+
+Anything you write, build or create belongs to you!
+
+#### Are there any prizes?
+
+Yes! Although prizes are not the driver behind hacking there will be some cool surprises for the winning team.
 
 #### I still have more questions.
 
