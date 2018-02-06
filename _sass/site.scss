@@ -119,10 +119,6 @@ a {
   &.large section {
     margin-bottom: 24px;
   }
-}
-
-.container {
-  background: $mainbackground;
 
   >h3 {
     margin-bottom: 0;
@@ -196,6 +192,11 @@ a.action-button {
     text-shadow: none;
     font-size: 12vw;
   }
+  .subtitle {
+    color: $maintext;
+    text-shadow: none;
+    font-size: 8vw;
+  }
 }
 
 .container.under-title {
@@ -215,10 +216,6 @@ a.action-button {
       padding: 60px 0;
       justify-content: space-around;
     }
-  }
-
-  .welcome-page .container.small {
-    padding: 0;
   }
 
   .container {
@@ -245,9 +242,6 @@ a.action-button {
       }
     }
   }
-  .welcome-page .container.large section {
-    margin: 0 auto;
-  }
   #call-to-action section:not(.info) {
     display: flex;
     flex-direction: column;
@@ -255,6 +249,19 @@ a.action-button {
   }
   a.action-button {
     width: 100%;
+  }
+
+}
+
+@media (min-width: 875px) {
+  .page-title .subtitle {
+    margin: -10vh 0 0 0;
+  }
+}
+
+@media (min-width: 1150px) {
+  .page-title .subtitle {
+    font-size: 4vw;
   }
 }
 
@@ -324,25 +331,6 @@ a.action-button {
   }
   .page-title {
     margin: 0;
-
-    .subtitle {
-      margin: 0;
-    }
-  }
-  .welcome-page {
-    .page-title {
-      height: 200px;
-    }
-
-    .container {
-      &.under-title {
-        background: black;
-        padding-top: 50px;
-      }
-      &.large {
-        padding: 50px 24px;
-      }
-    }
   }
 }
 
