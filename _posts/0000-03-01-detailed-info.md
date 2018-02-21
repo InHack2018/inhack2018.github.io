@@ -15,7 +15,6 @@ together to create software projects in a short amount of time.
 #### Where does InHack take place?
 
 InHack is hosted at the Start-up Campus Haarlem (SUCH). SUCH is located on the university premises:
-
 InHolland University of Applied Sciences, Bijdorplaan 15, 2015 CE Haarlem
 
 #### Does InHack have a theme?
