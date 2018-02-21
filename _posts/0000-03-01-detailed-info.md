@@ -12,6 +12,12 @@ title: Detailed Info
 A hackathon is a hacking marathon where creative and ambitious teams get
 together to create software projects in a short amount of time.
 
+#### Where does InHack take place?
+
+InHack is hosted at the Start-up Campus Haarlem (SUCH). SUCH is located on the university premises:
+
+InHolland University of Applied Sciences, Bijdorplaan 15, 2015 CE Haarlem
+
 #### Does InHack have a theme?
 
 InHack does not have a theme. You can let your imagination run wild!
@@ -53,9 +59,7 @@ Easy, [sign up here](https://goo.gl/forms/67DeV5SXL0Pl24403). Don't forget thoug
 
 #### What do I need to bring?
 
-Bring yourself, your laptop and anything else that you need to be productive.
-We will supply internet and a place to plug in. There will also be some
-food and drinks but don't be afraid to bring your own snacks.
+Yourself, your laptop and anything else that you need to be productive. Bring enough food to sustain you throughout the day. We will supply internet and a place to plug in as well as some light snacks and drinks.
 
 Don't forget your student card for admission.
 
