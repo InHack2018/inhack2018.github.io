@@ -30,7 +30,11 @@ Your team should consist of 2 to 5 people. If you are determined to hack solo, p
 
 #### What does it cost to participate?
 
-The cost of InHack is 7 euros. We will provide the WiFi, workspace, snacks, drinks and other goodies.
+Participation is FREE. We will provide the WiFi, workspace and other goodies.
+
+#### Will there be food?
+
+We will provide light snacks throughout the day. For more substantial meals, there is an Albert Heijn within a walking distance of the university as well as a number of restaurants and takeaways.
 
 #### I'm not smart / my idea is not cool enough.
 
