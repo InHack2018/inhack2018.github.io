@@ -45,7 +45,7 @@ have fun while doing it!
 
 #### How do I join?
 
-Easy, sign up here [link]. Don't forget though, max. 5 people per team.
+Easy, [sign up here](https://goo.gl/forms/67DeV5SXL0Pl24403). Don't forget though, max. 5 people per team.
 
 #### What do I need to bring?
 

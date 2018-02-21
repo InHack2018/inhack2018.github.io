@@ -134,6 +134,14 @@ a {
   }
 }
 
+.container.sponsor-logos {
+  text-align: center;
+  align-items: center;
+
+  a, a:hover, a:focus, a:active {
+    border: none !important;
+  }
+}
 
 .container#call-to-action {
   min-height: 30vh;
@@ -141,6 +149,20 @@ a {
 
   section {
     max-height: 250px;
+  }
+
+  .sponsors .image-container {
+    display: flex;
+    flex-direction: row;
+
+    p {
+      flex: 1;
+      margin: 2em;
+    }
+
+    a, a:hover, a:focus, a:active {
+      border: none !important;
+    }
   }
 }
 
