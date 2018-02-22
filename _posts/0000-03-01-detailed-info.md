@@ -45,12 +45,6 @@ Participation is FREE. We will provide the WiFi, workspace and other goodies.
 
 We will provide light snacks throughout the day and a dinner meal. There is also an Albert Heijn within a walking distance of the university as well as a number of restaurants and takeaways.
 
-#### I'm not smart / my idea is not cool enough.
-
-Sure you are. Hackathons are for learning, creating, getting inspired and
-have fun while doing it!
-
-
 
 </section>
 
@@ -85,6 +79,11 @@ Anything you write, build or create belongs to you!
 #### Are there any prizes?
 
 Yes! Although prizes are not the driver behind hacking there will be some cool surprises from Genuino and Raspberry Pi for the winning team.
+
+#### I'm not smart / my idea is not cool enough.
+
+Sure you are. Hackathons are for learning, creating, getting inspired and
+have fun while doing it!
 
 #### I still have more questions.
 
