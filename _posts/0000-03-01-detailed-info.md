@@ -43,7 +43,7 @@ Participation is FREE. We will provide the WiFi, workspace and other goodies.
 
 #### Will there be food?
 
-We will provide light snacks throughout the day. For more substantial meals, there is an Albert Heijn within a walking distance of the university as well as a number of restaurants and takeaways.
+We will provide light snacks throughout the day and a dinner meal. There is also an Albert Heijn within a walking distance of the university as well as a number of restaurants and takeaways.
 
 #### I'm not smart / my idea is not cool enough.
 
@@ -62,7 +62,7 @@ Easy, [sign up here](https://goo.gl/forms/67DeV5SXL0Pl24403). Don't forget thoug
 
 #### What do I need to bring?
 
-Yourself, your laptop and anything else that you need to be productive. Bring enough food to sustain you throughout the day. We will supply internet and a place to plug in as well as some light snacks and drinks.
+Yourself, your laptop and anything else that you need to be productive. We will supply internet and a place to plug in as well as some light snacks, drinks and dinner.
 
 Don't forget your student card for admission.
 
@@ -84,10 +84,10 @@ Anything you write, build or create belongs to you!
 
 #### Are there any prizes?
 
-Yes! Although prizes are not the driver behind hacking there will be some cool surprises for the winning team.
+Yes! Although prizes are not the driver behind hacking there will be some cool surprises from Genuino and Raspberry Pi for the winning team.
 
 #### I still have more questions.
 
-E-mail us at inhack2018@gmail.com
+We'd love to hear from you! E-mail us at inhack2018@gmail.com
 
 </section>
