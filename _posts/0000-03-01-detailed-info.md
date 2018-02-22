@@ -33,6 +33,10 @@ Any InHolland Hogeschool student can participate.
 
 Your team should consist of 2 to 5 people. If you are determined to hack solo, please send us an e-mail.
 
+#### What if I don't have a team?
+
+Register anyway! We will put you in contact with others who are looking for a team before the event. Don't forget to indicate this on the registration form.
+
 #### What does it cost to participate?
 
 Participation is FREE. We will provide the WiFi, workspace and other goodies.
