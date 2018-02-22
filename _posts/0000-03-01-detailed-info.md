@@ -52,7 +52,7 @@ We will provide light snacks throughout the day and a dinner meal. There is also
 
 #### How do I join?
 
-Easy, [sign up here](https://goo.gl/forms/67DeV5SXL0Pl24403). Don't forget though, max. 5 people per team.
+Easy, [sign up here](https://goo.gl/forms/67DeV5SXL0Pl24403). Don't forget though, max. 5 people per team. We can accept a limited number of participants so register soon!
 
 #### What do I need to bring?
 
