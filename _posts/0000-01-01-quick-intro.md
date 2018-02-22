@@ -9,7 +9,7 @@ background: rgb(51,51,51) url(img/code.jpg) center center no-repeat
 ### Hackathon
 
 We are inviting student builders, programmers, designers, developers and
-hackers for our first ever hackathon. Whether you are a veteran or completely
+hackers from InHolland University of Applied Sciences to our first ever hackathon. Whether you are a veteran or completely
 new to the scene, join us for a glorious day of coding!
 
 A hackathon is a hacking marathon where creative and ambitious teams get
