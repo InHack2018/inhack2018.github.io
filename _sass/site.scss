@@ -166,6 +166,10 @@ a {
   }
 }
 
+td {
+  padding: .5em;
+}
+
 a.action-button {
   display: block;
   text-align: center;
@@ -253,7 +257,7 @@ a.action-button {
         text-align: left;
       }
 
-      section {
+      section:not(.full-width) {
         max-width: 600px;
         margin: 24px auto;
       }
